@@ -6,5 +6,5 @@ sudo apt install npm
 
 npm install
 
-node start app.js
+npm start app.js
 
